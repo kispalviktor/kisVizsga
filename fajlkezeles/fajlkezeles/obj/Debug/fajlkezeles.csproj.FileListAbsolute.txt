@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\fajlkezeles\fajlkezeles\bin\Debug\fajlkezeles.exe.config
+C:\Users\KispalViktor\source\repos\fajlkezeles\fajlkezeles\bin\Debug\fajlkezeles.exe
+C:\Users\KispalViktor\source\repos\fajlkezeles\fajlkezeles\bin\Debug\fajlkezeles.pdb
+C:\Users\KispalViktor\source\repos\fajlkezeles\fajlkezeles\obj\Debug\fajlkezeles.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\fajlkezeles\fajlkezeles\obj\Debug\fajlkezeles.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\fajlkezeles\fajlkezeles\obj\Debug\fajlkezeles.exe
+C:\Users\KispalViktor\source\repos\fajlkezeles\fajlkezeles\obj\Debug\fajlkezeles.pdb
+C:\Users\KispalViktor\source\repos\fajlkezeles\fajlkezeles\obj\Debug\fajlkezeles.exe.config

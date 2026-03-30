@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\vizibicikli\vizibicikli\bin\Debug\vizibicikli.exe.config
+C:\Users\KispalViktor\source\repos\vizibicikli\vizibicikli\bin\Debug\vizibicikli.exe
+C:\Users\KispalViktor\source\repos\vizibicikli\vizibicikli\bin\Debug\vizibicikli.pdb
+C:\Users\KispalViktor\source\repos\vizibicikli\vizibicikli\obj\Debug\vizibicikli.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\vizibicikli\vizibicikli\obj\Debug\vizibicikli.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\vizibicikli\vizibicikli\obj\Debug\vizibicikli.exe
+C:\Users\KispalViktor\source\repos\vizibicikli\vizibicikli\obj\Debug\vizibicikli.pdb
+C:\Users\KispalViktor\source\repos\vizibicikli\vizibicikli\obj\Debug\vizibicikli.exe.config

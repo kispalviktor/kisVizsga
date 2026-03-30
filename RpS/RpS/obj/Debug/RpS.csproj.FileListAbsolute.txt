@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\RpS\RpS\obj\Debug\RpS.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\RpS\RpS\obj\Debug\RpS.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\RpS\RpS\bin\Debug\RpS.exe.config
+C:\Users\KispalViktor\source\repos\RpS\RpS\bin\Debug\RpS.exe
+C:\Users\KispalViktor\source\repos\RpS\RpS\bin\Debug\RpS.pdb
+C:\Users\KispalViktor\source\repos\RpS\RpS\obj\Debug\RpS.exe
+C:\Users\KispalViktor\source\repos\RpS\RpS\obj\Debug\RpS.pdb
+C:\Users\KispalViktor\source\repos\RpS\RpS\obj\Debug\RpS.exe.config

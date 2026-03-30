@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KispalViktor\\source\\repos\\vizibicikli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D019FCF-1CF3-41A3-9990-865D720C1A72}|vizibicikli\\vizibicikli.csproj|c:\\users\\kispalviktor\\source\\repos\\vizibicikli\\vizibicikli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D019FCF-1CF3-41A3-9990-865D720C1A72}|vizibicikli\\vizibicikli.csproj|solutionrelative:vizibicikli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\vizibicikli\\vizibicikli\\Program.cs",
+              "RelativeDocumentMoniker": "vizibicikli\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\vizibicikli\\vizibicikli\\Program.cs",
+              "RelativeToolTip": "vizibicikli\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T06:29:51.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

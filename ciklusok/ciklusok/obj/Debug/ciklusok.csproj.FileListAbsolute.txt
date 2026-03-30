@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\ciklusok\ciklusok\bin\Debug\ciklusok.exe.config
+C:\Users\KispalViktor\source\repos\ciklusok\ciklusok\bin\Debug\ciklusok.exe
+C:\Users\KispalViktor\source\repos\ciklusok\ciklusok\bin\Debug\ciklusok.pdb
+C:\Users\KispalViktor\source\repos\ciklusok\ciklusok\obj\Debug\ciklusok.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\ciklusok\ciklusok\obj\Debug\ciklusok.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\ciklusok\ciklusok\obj\Debug\ciklusok.exe
+C:\Users\KispalViktor\source\repos\ciklusok\ciklusok\obj\Debug\ciklusok.pdb
+C:\Users\KispalViktor\source\repos\ciklusok\ciklusok\obj\Debug\ciklusok.exe.config

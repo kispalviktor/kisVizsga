@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\elagazas\elagazas\bin\Debug\elagazas.exe.config
+C:\Users\KispalViktor\source\repos\elagazas\elagazas\bin\Debug\elagazas.exe
+C:\Users\KispalViktor\source\repos\elagazas\elagazas\bin\Debug\elagazas.pdb
+C:\Users\KispalViktor\source\repos\elagazas\elagazas\obj\Debug\elagazas.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\elagazas\elagazas\obj\Debug\elagazas.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\elagazas\elagazas\obj\Debug\elagazas.exe
+C:\Users\KispalViktor\source\repos\elagazas\elagazas\obj\Debug\elagazas.pdb
+C:\Users\KispalViktor\source\repos\elagazas\elagazas\obj\Debug\elagazas.exe.config

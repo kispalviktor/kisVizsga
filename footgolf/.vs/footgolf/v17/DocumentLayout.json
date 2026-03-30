@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KispalViktor\\source\\repos\\footgolf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3558FA-D8F3-43FF-A539-9CB8C222EFD7}|footgolf\\footgolf.csproj|c:\\users\\kispalviktor\\source\\repos\\footgolf\\footgolf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3558FA-D8F3-43FF-A539-9CB8C222EFD7}|footgolf\\footgolf.csproj|solutionrelative:footgolf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\footgolf\\footgolf\\Program.cs",
+              "RelativeDocumentMoniker": "footgolf\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\footgolf\\footgolf\\Program.cs",
+              "RelativeToolTip": "footgolf\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwG4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:57:09.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

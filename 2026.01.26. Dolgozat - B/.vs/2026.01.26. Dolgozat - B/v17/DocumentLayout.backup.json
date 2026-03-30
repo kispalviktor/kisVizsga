@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KispalViktor\\source\\repos\\2026.01.26. Dolgozat - B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF2069D1-A35C-4B71-BD13-4CECB82D400F}|2026.01.26. Dolgozat - B\\2026.01.26. Dolgozat - B.csproj|c:\\users\\kispalviktor\\source\\repos\\2026.01.26. dolgozat - b\\2026.01.26. dolgozat - b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF2069D1-A35C-4B71-BD13-4CECB82D400F}|2026.01.26. Dolgozat - B\\2026.01.26. Dolgozat - B.csproj|solutionrelative:2026.01.26. dolgozat - b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\2026.01.26. Dolgozat - B\\2026.01.26. Dolgozat - B\\Program.cs",
+              "RelativeDocumentMoniker": "2026.01.26. Dolgozat - B\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\2026.01.26. Dolgozat - B\\2026.01.26. Dolgozat - B\\Program.cs",
+              "RelativeToolTip": "2026.01.26. Dolgozat - B\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:32:51.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

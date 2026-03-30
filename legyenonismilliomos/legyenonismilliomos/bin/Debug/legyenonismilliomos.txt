@@ -1,0 +1,15 @@
+1. Kérdés: ;Melyik a legnagyobb kontinens?;a) Afrika;b) Ázsia;c) Észak-Amerika;d) Európa;b
+2. Kérdés: ;Melyik híres magyar festő alkotta a "Tavaszi Szél Vizet Áraszt" című képet?;a) Szőnyi István;b) Klimt Gustav;c) Munkácsy Mihály;d) Csontváry Kosztka Tivadar;d
+3. Kérdés: ;Mi a leghosszabb folyó a világon?;a) Amazonas;b) Nílus;c) Mississippi;d) Yangtze;b
+4. Kérdés: ;Ki volt a legelső ember, aki a Holdra lépett?;a) Buzz Aldrin;b) Michael Collins;c) Neil Armstrong;d) John Glenn;c
+5. Kérdés: ;Melyik ország fővárosa Budapest?;a) Magyarország;b) Románia;c) Szlovákia;d) Ausztria;a
+6. Kérdés: ;Mi a világ legnagyobb óceánja?;a) Atlanti-óceán;b) Indiai-óceán;c) Csendes-óceán;d) Jeges-óceán;c
+7. Kérdés: ;Melyik híres magyar szobrász alkotta a "Szabadság-szobrot"?;a) Barabás Miklós;b) Pátzay Pál;c) Somogyi Győző;d) Zala György;d
+8. Kérdés: ;Mi a legnagyobb város az Egyesült Államokban?;a) New York;b) Los Angeles;c) Chicago;d) San Francisco;a
+9. Kérdés: ;Mi a legnehezebb fém a világon?;a) Platina;b) Arany;c) Urán;d) Osmium;d
+10. Kérdés: ;Melyik a legnagyobb magyar nyelvű napilap?;a) Népszabadság;b) Magyar Nemzet;c) Blikk;d) Bors;c
+11. Kérdés: ;Ki írta a Pál utcai fiúk című regényt?;a) Jókai Mór;b) Molnár Ferenc;c) Móricz Zsigmond;c) Mikszáth Kálmán;b
+12. Kérdés: ;Melyik nem emlős?;a) Kutya;b) Delfin;c) Denevér;d) Kígyó;d
+13. Kérdés: ;Mennyi 7 × 8?;a) 54;b) 56;c) 48;d) 64;b
+14. Kérdés: ;Hány napos egy szökőév?;a) 364;b) 365;c) 366;d) 367;c
+15. Kérdés: ;Hány lapja van egy dodekaédernek?;a) 11;b) 12;c) 13;d) 14;b

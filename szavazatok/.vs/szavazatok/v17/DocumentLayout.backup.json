@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KispalViktor\\source\\repos\\szavazatok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B086F55-2EF2-46CE-9BD6-CBEB42C39A2C}|szavazatok\\szavazatok.csproj|c:\\users\\kispalviktor\\source\\repos\\szavazatok\\szavazatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B086F55-2EF2-46CE-9BD6-CBEB42C39A2C}|szavazatok\\szavazatok.csproj|solutionrelative:szavazatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KispalViktor\\source\\repos\\oop\\oop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KispalViktor\\source\\repos\\berek\\berek\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KispalViktor\\source\\repos\\elso2\\elso2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\elso2\\elso2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\elso2\\elso2\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\elso2\\elso2\\Program.cs",
+              "RelativeToolTip": "..\\elso2\\elso2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:28:08.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\oop\\oop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\oop\\oop\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\oop\\oop\\Program.cs",
+              "RelativeToolTip": "..\\oop\\oop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:19:35.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\berek\\berek\\Program.cs",
+              "RelativeDocumentMoniker": "..\\berek\\berek\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\berek\\berek\\Program.cs",
+              "RelativeToolTip": "..\\berek\\berek\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:10:02.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\szavazatok\\szavazatok\\Program.cs",
+              "RelativeDocumentMoniker": "szavazatok\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\szavazatok\\szavazatok\\Program.cs",
+              "RelativeToolTip": "szavazatok\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAD4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T08:09:21.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

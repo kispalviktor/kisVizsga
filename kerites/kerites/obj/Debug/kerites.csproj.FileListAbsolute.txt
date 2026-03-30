@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\kerites\kerites\bin\Debug\kerites.exe.config
+C:\Users\KispalViktor\source\repos\kerites\kerites\bin\Debug\kerites.exe
+C:\Users\KispalViktor\source\repos\kerites\kerites\bin\Debug\kerites.pdb
+C:\Users\KispalViktor\source\repos\kerites\kerites\obj\Debug\kerites.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\kerites\kerites\obj\Debug\kerites.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\kerites\kerites\obj\Debug\kerites.exe
+C:\Users\KispalViktor\source\repos\kerites\kerites\obj\Debug\kerites.pdb
+C:\Users\KispalViktor\source\repos\kerites\kerites\obj\Debug\kerites.exe.config

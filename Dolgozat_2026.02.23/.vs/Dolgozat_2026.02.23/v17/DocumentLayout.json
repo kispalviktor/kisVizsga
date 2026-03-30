@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KispalViktor\\source\\repos\\Dolgozat_2026.02.23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAED9D-8C7E-47A9-B8A1-53B545C8039F}|Dolgozat_2026.02.23\\Dolgozat_2026.02.23.csproj|c:\\users\\kispalviktor\\source\\repos\\dolgozat_2026.02.23\\dolgozat_2026.02.23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAED9D-8C7E-47A9-B8A1-53B545C8039F}|Dolgozat_2026.02.23\\Dolgozat_2026.02.23.csproj|solutionrelative:dolgozat_2026.02.23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\Dolgozat_2026.02.23\\Dolgozat_2026.02.23\\Program.cs",
+              "RelativeDocumentMoniker": "Dolgozat_2026.02.23\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\Dolgozat_2026.02.23\\Dolgozat_2026.02.23\\Program.cs",
+              "RelativeToolTip": "Dolgozat_2026.02.23\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T09:06:09.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

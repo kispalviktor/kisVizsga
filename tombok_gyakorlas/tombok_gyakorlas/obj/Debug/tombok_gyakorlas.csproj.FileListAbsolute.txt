@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\tombok_gyakorlas\tombok_gyakorlas\bin\Debug\tombok_gyakorlas.exe.config
+C:\Users\KispalViktor\source\repos\tombok_gyakorlas\tombok_gyakorlas\bin\Debug\tombok_gyakorlas.exe
+C:\Users\KispalViktor\source\repos\tombok_gyakorlas\tombok_gyakorlas\bin\Debug\tombok_gyakorlas.pdb
+C:\Users\KispalViktor\source\repos\tombok_gyakorlas\tombok_gyakorlas\obj\Debug\tombok_gyakorlas.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\tombok_gyakorlas\tombok_gyakorlas\obj\Debug\tombok_gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\tombok_gyakorlas\tombok_gyakorlas\obj\Debug\tombok_gyakorlas.exe
+C:\Users\KispalViktor\source\repos\tombok_gyakorlas\tombok_gyakorlas\obj\Debug\tombok_gyakorlas.pdb
+C:\Users\KispalViktor\source\repos\tombok_gyakorlas\tombok_gyakorlas\obj\Debug\tombok_gyakorlas.exe.config

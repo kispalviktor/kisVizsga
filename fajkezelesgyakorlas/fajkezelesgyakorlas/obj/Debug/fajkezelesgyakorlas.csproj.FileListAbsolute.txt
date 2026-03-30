@@ -1,0 +1,7 @@
+C:\Users\KispalViktor\source\repos\fajkezelesgyakorlas\fajkezelesgyakorlas\bin\Debug\fajkezelesgyakorlas.exe.config
+C:\Users\KispalViktor\source\repos\fajkezelesgyakorlas\fajkezelesgyakorlas\bin\Debug\fajkezelesgyakorlas.exe
+C:\Users\KispalViktor\source\repos\fajkezelesgyakorlas\fajkezelesgyakorlas\bin\Debug\fajkezelesgyakorlas.pdb
+C:\Users\KispalViktor\source\repos\fajkezelesgyakorlas\fajkezelesgyakorlas\obj\Debug\fajkezelesgyakorlas.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\fajkezelesgyakorlas\fajkezelesgyakorlas\obj\Debug\fajkezelesgyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\fajkezelesgyakorlas\fajkezelesgyakorlas\obj\Debug\fajkezelesgyakorlas.exe
+C:\Users\KispalViktor\source\repos\fajkezelesgyakorlas\fajkezelesgyakorlas\obj\Debug\fajkezelesgyakorlas.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adatbazis_kezelo", "adatbazis_kezelo\adatbazis_kezelo.csproj", "{2E3D2772-3027-44B4-A1FC-D70C383003A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E3D2772-3027-44B4-A1FC-D70C383003A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3D2772-3027-44B4-A1FC-D70C383003A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3D2772-3027-44B4-A1FC-D70C383003A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3D2772-3027-44B4-A1FC-D70C383003A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE500A3-8BD2-4B69-AC06-EE1BE3C9BAD2}
+	EndGlobalSection
+EndGlobal

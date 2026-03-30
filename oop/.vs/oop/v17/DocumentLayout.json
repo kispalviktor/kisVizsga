@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KispalViktor\\source\\repos\\oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC92D51-0C57-4231-876F-38AF6881B535}|oop\\oop.csproj|c:\\users\\kispalviktor\\source\\repos\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC92D51-0C57-4231-876F-38AF6881B535}|oop\\oop.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\oop\\oop\\Program.cs",
+              "RelativeDocumentMoniker": "oop\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\oop\\oop\\Program.cs",
+              "RelativeToolTip": "oop\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:44:01.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

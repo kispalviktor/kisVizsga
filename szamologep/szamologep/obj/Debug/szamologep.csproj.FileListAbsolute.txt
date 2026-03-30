@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\szamologep\szamologep\bin\Debug\szamologep.exe.config
+C:\Users\KispalViktor\source\repos\szamologep\szamologep\bin\Debug\szamologep.exe
+C:\Users\KispalViktor\source\repos\szamologep\szamologep\bin\Debug\szamologep.pdb
+C:\Users\KispalViktor\source\repos\szamologep\szamologep\obj\Debug\szamologep.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\szamologep\szamologep\obj\Debug\szamologep.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\szamologep\szamologep\obj\Debug\szamologep.exe
+C:\Users\KispalViktor\source\repos\szamologep\szamologep\obj\Debug\szamologep.pdb
+C:\Users\KispalViktor\source\repos\szamologep\szamologep\obj\Debug\szamologep.exe.config

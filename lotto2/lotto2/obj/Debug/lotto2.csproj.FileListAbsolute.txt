@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\lotto2\lotto2\bin\Debug\lotto2.exe.config
+C:\Users\KispalViktor\source\repos\lotto2\lotto2\bin\Debug\lotto2.exe
+C:\Users\KispalViktor\source\repos\lotto2\lotto2\bin\Debug\lotto2.pdb
+C:\Users\KispalViktor\source\repos\lotto2\lotto2\obj\Debug\lotto2.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\lotto2\lotto2\obj\Debug\lotto2.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\lotto2\lotto2\obj\Debug\lotto2.exe
+C:\Users\KispalViktor\source\repos\lotto2\lotto2\obj\Debug\lotto2.pdb
+C:\Users\KispalViktor\source\repos\lotto2\lotto2\obj\Debug\lotto2.exe.config

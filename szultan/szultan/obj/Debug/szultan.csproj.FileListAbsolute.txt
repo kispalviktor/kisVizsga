@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\szultan\szultan\bin\Debug\szultan.exe.config
+C:\Users\KispalViktor\source\repos\szultan\szultan\bin\Debug\szultan.exe
+C:\Users\KispalViktor\source\repos\szultan\szultan\bin\Debug\szultan.pdb
+C:\Users\KispalViktor\source\repos\szultan\szultan\obj\Debug\szultan.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\szultan\szultan\obj\Debug\szultan.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\szultan\szultan\obj\Debug\szultan.exe
+C:\Users\KispalViktor\source\repos\szultan\szultan\obj\Debug\szultan.pdb
+C:\Users\KispalViktor\source\repos\szultan\szultan\obj\Debug\szultan.exe.config

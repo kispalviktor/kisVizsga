@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KispalViktor\\source\\repos\\\u00EDkihegovfod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70011D5E-6745-4E57-8B79-4F49272BEE2F}|\u00EDkihegovfod\\\u00EDkihegovfod.csproj|c:\\users\\kispalviktor\\source\\repos\\\u00EDkihegovfod\\\u00EDkihegovfod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70011D5E-6745-4E57-8B79-4F49272BEE2F}|\u00EDkihegovfod\\\u00EDkihegovfod.csproj|solutionrelative:\u00EDkihegovfod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KispalViktor\\source\\repos\\\u00EDkihegovfod\\\u00EDkihegovfod\\Program.cs",
+              "RelativeDocumentMoniker": "\u00EDkihegovfod\\Program.cs",
+              "ToolTip": "C:\\Users\\KispalViktor\\source\\repos\\\u00EDkihegovfod\\\u00EDkihegovfod\\Program.cs",
+              "RelativeToolTip": "\u00EDkihegovfod\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T09:20:40.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

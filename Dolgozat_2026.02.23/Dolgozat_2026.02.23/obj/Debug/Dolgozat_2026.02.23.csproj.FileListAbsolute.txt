@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\Dolgozat_2026.02.23\Dolgozat_2026.02.23\bin\Debug\Dolgozat_2026.02.23.exe.config
+C:\Users\KispalViktor\source\repos\Dolgozat_2026.02.23\Dolgozat_2026.02.23\bin\Debug\Dolgozat_2026.02.23.exe
+C:\Users\KispalViktor\source\repos\Dolgozat_2026.02.23\Dolgozat_2026.02.23\bin\Debug\Dolgozat_2026.02.23.pdb
+C:\Users\KispalViktor\source\repos\Dolgozat_2026.02.23\Dolgozat_2026.02.23\obj\Debug\Dolgozat_2026.02.23.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\Dolgozat_2026.02.23\Dolgozat_2026.02.23\obj\Debug\Dolgozat_2026.02.23.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\Dolgozat_2026.02.23\Dolgozat_2026.02.23\obj\Debug\Dolgozat_2026.02.23.exe
+C:\Users\KispalViktor\source\repos\Dolgozat_2026.02.23\Dolgozat_2026.02.23\obj\Debug\Dolgozat_2026.02.23.pdb
+C:\Users\KispalViktor\source\repos\Dolgozat_2026.02.23\Dolgozat_2026.02.23\obj\Debug\Dolgozat_2026.02.23.exe.config

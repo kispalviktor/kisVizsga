@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\íkihegovfod\íkihegovfod\bin\Debug\íkihegovfod.exe.config
+C:\Users\KispalViktor\source\repos\íkihegovfod\íkihegovfod\bin\Debug\íkihegovfod.exe
+C:\Users\KispalViktor\source\repos\íkihegovfod\íkihegovfod\bin\Debug\íkihegovfod.pdb
+C:\Users\KispalViktor\source\repos\íkihegovfod\íkihegovfod\obj\Debug\íkihegovfod.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\íkihegovfod\íkihegovfod\obj\Debug\íkihegovfod.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\íkihegovfod\íkihegovfod\obj\Debug\íkihegovfod.exe
+C:\Users\KispalViktor\source\repos\íkihegovfod\íkihegovfod\obj\Debug\íkihegovfod.pdb
+C:\Users\KispalViktor\source\repos\íkihegovfod\íkihegovfod\obj\Debug\íkihegovfod.exe.config

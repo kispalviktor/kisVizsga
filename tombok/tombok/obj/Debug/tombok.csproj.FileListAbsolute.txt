@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\tombok\tombok\bin\Debug\tombok.exe.config
+C:\Users\KispalViktor\source\repos\tombok\tombok\bin\Debug\tombok.exe
+C:\Users\KispalViktor\source\repos\tombok\tombok\bin\Debug\tombok.pdb
+C:\Users\KispalViktor\source\repos\tombok\tombok\obj\Debug\tombok.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\tombok\tombok\obj\Debug\tombok.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\tombok\tombok\obj\Debug\tombok.exe
+C:\Users\KispalViktor\source\repos\tombok\tombok\obj\Debug\tombok.pdb
+C:\Users\KispalViktor\source\repos\tombok\tombok\obj\Debug\tombok.exe.config

@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\footgolf\footgolf\bin\Debug\footgolf.exe.config
+C:\Users\KispalViktor\source\repos\footgolf\footgolf\bin\Debug\footgolf.exe
+C:\Users\KispalViktor\source\repos\footgolf\footgolf\bin\Debug\footgolf.pdb
+C:\Users\KispalViktor\source\repos\footgolf\footgolf\obj\Debug\footgolf.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\footgolf\footgolf\obj\Debug\footgolf.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\footgolf\footgolf\obj\Debug\footgolf.exe
+C:\Users\KispalViktor\source\repos\footgolf\footgolf\obj\Debug\footgolf.pdb
+C:\Users\KispalViktor\source\repos\footgolf\footgolf\obj\Debug\footgolf.exe.config

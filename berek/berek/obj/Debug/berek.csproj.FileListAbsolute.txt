@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\berek\berek\bin\Debug\berek.exe.config
+C:\Users\KispalViktor\source\repos\berek\berek\bin\Debug\berek.exe
+C:\Users\KispalViktor\source\repos\berek\berek\bin\Debug\berek.pdb
+C:\Users\KispalViktor\source\repos\berek\berek\obj\Debug\berek.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\berek\berek\obj\Debug\berek.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\berek\berek\obj\Debug\berek.exe
+C:\Users\KispalViktor\source\repos\berek\berek\obj\Debug\berek.pdb
+C:\Users\KispalViktor\source\repos\berek\berek\obj\Debug\berek.exe.config

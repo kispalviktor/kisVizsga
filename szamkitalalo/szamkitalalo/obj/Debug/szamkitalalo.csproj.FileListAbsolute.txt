@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.exe.config
+C:\Users\KispalViktor\source\repos\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.exe
+C:\Users\KispalViktor\source\repos\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.pdb
+C:\Users\KispalViktor\source\repos\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.exe
+C:\Users\KispalViktor\source\repos\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.pdb
+C:\Users\KispalViktor\source\repos\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.exe.config

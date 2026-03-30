@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\1STdolgozatA\1STdolgozatA\bin\Debug\1STdolgozatA.exe.config
+C:\Users\KispalViktor\source\repos\1STdolgozatA\1STdolgozatA\bin\Debug\1STdolgozatA.exe
+C:\Users\KispalViktor\source\repos\1STdolgozatA\1STdolgozatA\bin\Debug\1STdolgozatA.pdb
+C:\Users\KispalViktor\source\repos\1STdolgozatA\1STdolgozatA\obj\Debug\1STdolgozatA.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\1STdolgozatA\1STdolgozatA\obj\Debug\1STdolgozatA.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\1STdolgozatA\1STdolgozatA\obj\Debug\1STdolgozatA.exe
+C:\Users\KispalViktor\source\repos\1STdolgozatA\1STdolgozatA\obj\Debug\1STdolgozatA.pdb
+C:\Users\KispalViktor\source\repos\1STdolgozatA\1STdolgozatA\obj\Debug\1STdolgozatA.exe.config

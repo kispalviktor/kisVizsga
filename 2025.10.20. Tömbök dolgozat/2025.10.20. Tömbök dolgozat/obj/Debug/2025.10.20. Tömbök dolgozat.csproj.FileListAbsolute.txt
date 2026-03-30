@@ -1,0 +1,8 @@
+C:\Users\KispalViktor\source\repos\2025.10.20. Tömbök dolgozat\2025.10.20. Tömbök dolgozat\bin\Debug\_2025._10._20.Tömbök_dolgozat.exe.config
+C:\Users\KispalViktor\source\repos\2025.10.20. Tömbök dolgozat\2025.10.20. Tömbök dolgozat\bin\Debug\_2025._10._20.Tömbök_dolgozat.exe
+C:\Users\KispalViktor\source\repos\2025.10.20. Tömbök dolgozat\2025.10.20. Tömbök dolgozat\bin\Debug\_2025._10._20.Tömbök_dolgozat.pdb
+C:\Users\KispalViktor\source\repos\2025.10.20. Tömbök dolgozat\2025.10.20. Tömbök dolgozat\obj\Debug\2025.10.20. Tömbök dolgozat.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\source\repos\2025.10.20. Tömbök dolgozat\2025.10.20. Tömbök dolgozat\obj\Debug\2025.10.20. Tömbök dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\source\repos\2025.10.20. Tömbök dolgozat\2025.10.20. Tömbök dolgozat\obj\Debug\_2025._10._20.Tömbök_dolgozat.exe
+C:\Users\KispalViktor\source\repos\2025.10.20. Tömbök dolgozat\2025.10.20. Tömbök dolgozat\obj\Debug\_2025._10._20.Tömbök_dolgozat.pdb
+C:\Users\KispalViktor\source\repos\2025.10.20. Tömbök dolgozat\2025.10.20. Tömbök dolgozat\obj\Debug\_2025._10._20.Tömbök_dolgozat.exe.config
