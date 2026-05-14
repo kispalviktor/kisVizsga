@@ -1,8 +1,0 @@
-C:\Users\KispalViktor\source\repos\konyvkiadass\konyvkiadass\bin\Debug\konyvkiadass.exe.config
-C:\Users\KispalViktor\source\repos\konyvkiadass\konyvkiadass\bin\Debug\konyvkiadass.exe
-C:\Users\KispalViktor\source\repos\konyvkiadass\konyvkiadass\bin\Debug\konyvkiadass.pdb
-C:\Users\KispalViktor\source\repos\konyvkiadass\konyvkiadass\obj\Debug\konyvkiadass.csproj.AssemblyReference.cache
-C:\Users\KispalViktor\source\repos\konyvkiadass\konyvkiadass\obj\Debug\konyvkiadass.csproj.CoreCompileInputs.cache
-C:\Users\KispalViktor\source\repos\konyvkiadass\konyvkiadass\obj\Debug\konyvkiadass.exe
-C:\Users\KispalViktor\source\repos\konyvkiadass\konyvkiadass\obj\Debug\konyvkiadass.pdb
-C:\Users\KispalViktor\source\repos\konyvkiadass\konyvkiadass\obj\Debug\konyvkiadass.exe.config
