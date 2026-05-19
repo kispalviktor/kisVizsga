@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Zenei Kvíz</title>
+</head>
+<body>
+
+<script src="script.js"></script>
+
+<form id="quizForm">
+
+<h1>ZENEI KVíZ</h1>
+
+<div class="question" id="q1box">
+    <p>1. Ki a "Thriller" című album előadója?</p>
+    <input type="radio" name="q1" value="0"> Elvis Presley<br>
+    <input type="radio" name="q1" value="1"> Michael Jackson<br>
+    <input type="radio" name="q1" value="0"> Prince<br>
+</div>
+
+<div class="question" id="q2box">
+    <p>2. Melyek hangszerek?</p>
+    <input type="checkbox" name="q2" value="1"> Gitár<br>
+    <input type="checkbox" name="q2" value="1"> Zongora<br>
+    <input type="checkbox" name="q2" value="0"> Számítógép<br>
+</div>
+
+<div class="question" id="q3box">
+    <p>3. Melyik műfaj tartozik a rockhoz?</p>
+    <select name="q3">
+        <option value="0">Opera</option>
+        <option value="1">Hard rock</option>
+        <option value="0">Jazz</option>
+    </select>
+</div>
+
+<div class="question" id="q4box">
+    <p>4. Hány húrja van egy klasszikus gitárnak?</p>
+    <input type="number" name="q4">
+</div>
+
+<div class="question" id="q5box">
+    <p>5. Írd be: melyik hangszernek vannak billentyűi?</p>
+    <input type="text" name="q5">
+</div>
+
+<div class="question" id="q6box">
+    <p>6. Ki énekli a "Shape of You" című dalt?</p>
+    <input type="radio" name="q6" value="1"> Ed Sheeran<br>
+    <input type="radio" name="q6" value="0"> Justin Bieber<br>
+</div>
+
+<div class="question" id="q7box">
+    <p>7. Melyek elektronikus zenei műfajok?</p>
+    <input type="checkbox" name="q7" value="1"> Techno<br>
+    <input type="checkbox" name="q7" value="1"> House<br>
+    <input type="checkbox" name="q7" value="0"> Népzene<br>
+</div>
+
+<div class="question" id="q8box">
+    <p>8. Melyik hangszer fúvós?</p>
+    <select name="q8">
+        <option value="0">Dob</option>
+        <option value="1">Fuvola</option>
+        <option value="0">Gitár</option>
+    </select>
+</div>
+
+<div class="question" id="q9box">
+    <p>9. Hány hang van egy oktávban (alap skálában)?</p>
+    <input type="number" name="q9">
+</div>
+
+<div class="question" id="q10box">
+    <p>10. A "Bohemian Rhapsody" melyik együttes dala?</p>
+    <input type="radio" name="q10" value="1"> Queen<br>
+    <input type="radio" name="q10" value="0"> Beatles<br>
+</div>
+
+</form>
+
+<button onclick="evaluateQuiz()">Kiértékelés</button>
+
+<h2 id="result"></h2>
+
+</body>
+</html>
