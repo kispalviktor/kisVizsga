@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regisztráció</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header>
+        <h1>Filmtár</h1>
+        <p>A legfrissebb filmek is megjelnennek oldalunkon</p>
+    </header>
+
+    <nav>
+        <a href="#">Főoldal</a>
+        <a href="#">Hírek</a>
+        <a href="#">Kapcsolat</a>
+        <a href="regisztracio.html">Regisztráció</a>
+    </nav>
+
+        <form method="post" action="https://httpbin.org/post">
+        <label id="uh"> Név: 
+            <input type="text" name="name" placeholder="Pl. Kalap Jakab" maxlength="20" required>
+        </label> 
+        <label id="uh"> E-mail: 
+            <input type="email" name="email" placeholder="Pl. kalap@gmail.com" maxlength="25" required>
+        </label>
+        <label id="uh"> Jelszó: 
+            <input type="password" name="password" placeholder="Pl. abc123!?" maxlength="8" required>
+        </label>
+        <br>
+
+            <label> 
+                <input type="checkbox" name="box" value="newsletter"> Szeretnék feliratkozni a weboldal hírlevelére.
+                <br>
+                <input type="checkbox" name="box" value="tos" required> Elfogafom azáltalános szerződési feltételeket.
+            </label>
+            <br>
+
+        <button type="submit">Elküldés</button>
+</body>
+</html>

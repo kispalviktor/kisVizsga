@@ -1,0 +1,82 @@
+.box{
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.box1{
+    background-color: aquamarine;
+    transition: background-color 3s;
+}
+
+.box1:hover{
+    background-color: rgb(201, 119, 47);
+}
+
+.box2{
+    background-color: blue;
+    transition: transform 2s;
+}
+
+.box2:hover{
+    transform: rotate(20deg);
+}
+
+.box3{
+    background-color: blueviolet;
+    transition: width 2s, height 3s, background-color 5s;
+}
+
+.box3:hover{
+    width: 200px;
+    height: 180px;
+    background-color: rgb(134, 121, 156);
+}
+
+.box4{
+    background-color: rgb(60, 203, 70);
+    transition: transform 3s, background-color 5s;
+}
+
+.box4:hover{
+    transform: scale(1.5);
+    background-color: rgb(88, 101, 84);
+}
+
+.box5{
+    background-color: rgb(46, 199, 230);
+    transition: transform 3s, background-color 5s;
+}
+
+.box5:hover{
+    transform: translate(200px);
+    background-color: rgb(84, 119, 125);
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: antiquewhite;
+}
+
+a{
+    gap: 6px;
+    display: inline-flex;
+    margin: 40px;
+    align-items: center;
+    font-weight: 600;
+
+    color: rgba(80, 77, 77, 0.911);
+    background: rgb(244, 239, 239);
+    transition: transform 1s ease, box-shadow ease 0.3s, color 0.5;
+}
+
+a:hover{
+    transform: translateY(-6px) translateX(6px) scale(1.15);
+    color: green;
+    box-shadow: 0 14px 28px rgb(130, 125, 125);
+}

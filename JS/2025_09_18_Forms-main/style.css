@@ -1,0 +1,40 @@
+body{
+    background-color: brown;
+    opacity: 95%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+fieldset{
+    background-color: brown;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+    background-color: rgb(238, 198, 86)
+}
+
+form{
+    max-width: 500px;
+    background: rgb(116, 30, 30);
+    padding: 15px;
+    max-width: 500px;
+    margin: auto;
+}
+
+label{
+    display: block;
+    color: rgb(255, 255, 255)
+}
+
+legend{
+    color: rgb(238, 198, 86)
+}
+
+input{
+    padding-left: 322px;
+}
+
+#uh{
+    color: rgb(238, 198, 86)
+}

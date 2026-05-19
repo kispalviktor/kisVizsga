@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let szam = prompt("Kérlek adj meg egy pozitív egész számot! ");
+        let osszeg = 0;
+        let folytasd = true;
+
+        while(folytasd){
+            if (szam > 0){
+                for (let i = 0; i < szam.length; i++){
+                    osszeg += parseInt(szam[i])
+                }
+                folytasd = false; 
+            } else{
+                console.log("Csak pozitív egész számot adj meg")
+                szam = prompt("Csak pozitív egész számot adj meg, Kérlek adj meg egy pozitív számot")
+            }
+            console.log(osszeg)
+        }
+        
+        let egyik = prompt("Kérlek adj meg az első számot: ");
+        let masik = prompt("Kérlek adj meg a második számot: ");
+        let muvelet = prompt("Add meg a műveleted: ")
+
+        
+    </script>
+</body>
+</html>

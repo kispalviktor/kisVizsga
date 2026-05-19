@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
+    justify-content: flex-start;
+    background-color: DodgerBlue;
+}
+
+.container div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 24px;
+    width: 70px;
+}
+
+#box1{
+    background-color: aqua;
+}
+
+#box2{
+    flex-grow: 4;
+}
+
+.container2{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color: rgb(0, 219, 91);
+}
+
+.container2 div {
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 24px;
+}
+
+#boxxx{
+    background-color: red;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#boxx{
+    background-color: blueviolet;
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

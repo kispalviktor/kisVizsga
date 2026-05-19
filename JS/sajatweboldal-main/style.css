@@ -1,0 +1,104 @@
+#div1 {
+    background-color: rgb(194, 0, 0);
+    color: rgb(255, 212, 220);
+    color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+    width: 1000px;
+    padding: 14px 16px;
+}
+
+body{
+    background-color: pink;
+}
+
+#maintxt{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(255, 209, 216);
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    background-color: rgb(128, 0, 0);
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+nav a {
+    float: left;
+    color: #eedbb2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+nav a:hover {
+    background-color: #eedbb2;
+    color: rgb(128, 0, 0);
+}
+
+/* Add a color to the active/current link */
+nav a.active {
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+
+form{
+    max-width: 500px;
+    background: rgb(128, 0, 0);
+    padding: 15px;
+    max-width: 500px;
+    margin: auto;
+}
+
+label{
+    display: block;
+    color: #eedbb2;
+}
+
+legend{
+    color: #eedbb2;
+}
+
+input{
+    padding-left: 322px;
+}
+
+#uh{
+    color: #eedbb2;
+}
+
+fieldset{
+    background-color: brown;
+}
+
+button{
+    background-color: #eedbb2;
+    border: #a19476;
+    color: rgb(128, 0, 0);
+}
+
+#receptkep{
+    float: right;
+    width: 500px;
+}
+
+#topsection{
+    background-color: pink;
+    color: rgb(194, 0, 0);
+}
+
+table, th, td {
+    border: 1px solid pink;
+    border-collapse: collapse;
+    padding: 5px;
+    margin: auto;
+}

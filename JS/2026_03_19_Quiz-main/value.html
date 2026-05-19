@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Téglalap területének számítása</h1>
+
+    <div>
+        <label for="szelesseg">Szélesség (cm)</label>
+        <input type="number" name="szelesseg" id="szelesseg" placeholder="pl. 1.1" step="10"><br>
+
+        <label for="magassag">Magasság (cm)</label>
+        <input type="range" name="magassag" id="magassag" min="1" max="100"><br>
+
+        <button type="submit" onclick="szamol()">Kalkuláció</button>
+
+        <ul>
+            <li id="magassag_ertek"></li>
+            <li id="terulet"></li>
+        </ul>
+    </div>
+    <script src="value.js"></script>
+</body>
+</html>

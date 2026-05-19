@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>js</title>
+</head>
+<body>
+    <div style="background-color: white;">
+        <h1>JAVASCRiPT GYAKORLÁS</h1>
+    </div>
+
+    <div>
+
+    <h2>1. Feladat</h2>
+    <input type="text" id="nev" placeholder="Adja meg a nevét itt most!">
+    <button onclick="koszones()">Köszönjön most!</button>
+    <p id="koszonet"></p>
+
+    <h2>2. Feladat</h2>
+    <input type="number" id="teglalap_oldal_1" placeholder="Adja meg a téglalap oldalát az eggyiked itt!">
+    <input type="number" id="teglalap_oldal_2" placeholder="Adja meg a téglalap oldalát a másikat emitt!">
+    <button onclick="teglalap_kerulet_terulet()">Kerületet most!</button>
+    <p id="sign"></p>
+    <p id="teglalap_kerulet"></p>
+    <p id="sign2"></p>
+    <p id="teglalap_terulet"></p>
+
+    </div>
+
+    <script>
+        function koszones() {
+            let nev = document.getElementById("nev").value;
+            document.getElementById("koszonet").innerHTML = "Szia " + nev + "!!!";
+        }
+
+        function teglalap_kerulet_terulet(){
+            let a = document.getElementById("teglalap_oldal_1").value;
+            let b = document.getElementById("teglalap_oldal_2").value;
+
+            document.getElementById("sign").innerHTML = "Kerület";
+            document.getElementById("teglalap_kerulet").innerHTML = 2 * (a + b);
+            document.getElementById("sign2").innerHTML = "Terület";
+            document.getElementById("teglalap_terulet").innerHTML = a * b;
+        }
+    </script>
+</body>
+</html>
